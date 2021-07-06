@@ -4,7 +4,7 @@ import Layout from '../components/Layout'
 export default function NotFound() {
     return (
         <Layout>
-           404 Not Found 
+           <h1>404 NOT FOUND :(</h1> 
         </Layout>
     )
 }
